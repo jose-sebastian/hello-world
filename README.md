@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-Adding story-1
+my first repository</br>
+Adding story-1 
